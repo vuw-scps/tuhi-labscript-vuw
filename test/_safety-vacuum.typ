@@ -1,0 +1,4 @@
+The pressure difference between inside and outside a vacuum chamber can result in an implosion and  flying glass. The vacuum coaters used in this lab are not sealed very tightly and the chamber is relatively small and protected, but you should always use caution when operating the equipment. Always ask a demonstrator or lecturer to check before pumping down the chamber, or if you notice anything strange. In addition:
+
+- Maintain the chamber clean, and use gloves to insert/retrieve anything from it
+- Ensure that the vacuum apparatus is positioned in such a way that the possibility of being accidentally hit is minimised
